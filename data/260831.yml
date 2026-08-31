@@ -1,0 +1,58 @@
+about:
+  description: Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
+  license: Apache-2.0
+  homepage: 
+  head: c739911
+  archived: false
+  latestVersion: v4.23.1
+  collectedAt: 2026-08-31T06:41:12Z
+timeline:
+  created: 2025-04-13
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-23
+popularity:
+  star: 3282
+  watcher: 17
+  fork: 569
+  release: 70
+  contributor: 27
+  pullRequest: 176
+  issue: 271
+language:
+  Python: 3137285
+  Shell: 6378
+  Dockerfile: 3458
+totalLine: 3147121
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 4
+    mergedPR: 44
+    openPR: 33
+    closedIssue: 29
+    openIssue: 63
+    commit: 36
+  last90d:
+    since: 2026-06-02
+    release: 15
+    mergedPR: 115
+    openPR: 59
+    closedIssue: 61
+    openIssue: 79
+    commit: 152
+  last180d:
+    since: 2026-03-04
+    release: 45
+    mergedPR: 253
+    openPR: 79
+    closedIssue: 114
+    openIssue: 98
+    commit: 397
+  last360d:
+    since: 2025-09-05
+    release: 64
+    mergedPR: 340
+    openPR: 82
+    closedIssue: 148
+    openIssue: 99
+    commit: 649
