@@ -7,7 +7,7 @@ about:
   head: f410bfd
   archived: false
   latestVersion: v4.23.3
-  collectedAt: 2026-09-04T20:12:52Z
+  collectedAt: 2026-09-04T20:28:12Z
 timeline:
   created: 2025-04-13
   lastCommit: 2026-09-02
@@ -83,7 +83,7 @@ total:
   commit: 1170
 ---
 path: /home/runner/.x-repo/github.com/stickerdaniel/linkedin-mcp-server
-collectedAt: 2026-09-04T20:12:53Z
+collectedAt: 2026-09-04T20:28:13Z
 loc:
   Python:
     code: 84680
