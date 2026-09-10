@@ -4,7 +4,7 @@
 
 Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.
 
-![linkedin-mcp-server](https://repo.x-cmd.io/linkedin-mcp-server.svg)
+![linkedin-mcp-server](https://repo.x-cmd.io/linkedin-mcp-server.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,28 @@ x install linkedin-mcp-server
 - **最新版本**: `v4.24.0` (2026-09-07)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-09-07T15:51:59Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [linkedin-mcp-server-v4.24.0.mcpb](https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.24.0/linkedin-mcp-server-v4.24.0.mcpb) | 686.6 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 3,416 · **Fork**: 593 · **开放 issue**: 298 · **贡献者**: 33
+- **Star**: 3,420 · **Fork**: 592 · **开放 issue**: 301 · **贡献者**: 33
 
 ## 累计统计
 
-- **发布数**: 73 · **已合并 PR**: 385 · **开放 PR**: 91 · **已关闭 issue**: 211 · **开放 issue**: 87 · **提交数**: 1185
+- **发布数**: 73 · **已合并 PR**: 385 · **开放 PR**: 90 · **已关闭 issue**: 211 · **开放 issue**: 90 · **提交数**: 1185
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 6 | 52 | 28 | 56 | 43 | 58 |
-| 90d | 2026-06-12 | 14 | 134 | 66 | 97 | 67 | 156 |
-| 360d | 2025-09-15 | 67 | 373 | 91 | 185 | 87 | 685 |
+| 30d | 2026-08-11 | 6 | 52 | 28 | 56 | 46 | 58 |
+| 90d | 2026-06-12 | 14 | 134 | 65 | 97 | 70 | 156 |
+| 360d | 2025-09-15 | 67 | 373 | 90 | 185 | 90 | 685 |
 
 ## 代码规模
 
@@ -61,4 +66,4 @@ linkedin-mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:28:54Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:08:38Z._
