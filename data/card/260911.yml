@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.24.0"
   latestRelease: "v4.24.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:07:46Z
+  collectedAt: 2026-09-11T05:14:07Z
 timeline:
   created: 2025-04-13
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 3426
+  star: 3428
   watcher: 19
   fork: 592
   release: 73
@@ -85,7 +85,7 @@ total:
   commit: 1185
 ---
 path: /home/runner/.x-repo/github.com/stickerdaniel/linkedin-mcp-server
-collectedAt: 2026-09-11T00:07:48Z
+collectedAt: 2026-09-11T05:14:13Z
 loc:
   Python:
     code: 90122
