@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/389029597",
-  "assets_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/389029597/assets",
-  "upload_url": "https://uploads.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/389029597/assets{?name,label}",
-  "html_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/tag/v4.24.3",
-  "id": 389029597,
+  "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/392156921",
+  "assets_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/392156921/assets",
+  "upload_url": "https://uploads.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/392156921/assets{?name,label}",
+  "html_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/tag/v4.24.4",
+  "id": 392156921,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOYrAVM4XMB7d",
-  "tag_name": "v4.24.3",
+  "node_id": "RE_kwDOOYrAVM4XX9b5",
+  "tag_name": "v4.24.4",
   "target_commitish": "main",
-  "name": "v4.24.3",
+  "name": "v4.24.4",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-15T09:41:11Z",
-  "updated_at": "2026-09-15T09:51:48Z",
-  "published_at": "2026-09-15T09:51:48Z",
+  "created_at": "2026-09-19T17:14:26Z",
+  "updated_at": "2026-09-19T17:23:30Z",
+  "published_at": "2026-09-19T17:23:30Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/assets/565407249",
-      "id": 565407249,
-      "node_id": "RA_kwDOOYrAVM4hs24R",
-      "name": "linkedin-mcp-server-v4.24.3.mcpb",
+      "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/assets/575173079",
+      "id": 575173079,
+      "node_id": "RA_kwDOOYrAVM4iSHHX",
+      "name": "linkedin-mcp-server-v4.24.4.mcpb",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,16 +65,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 739496,
-      "digest": "sha256:c30bd3209ae2c835b2da777fc677f395eac418b179e7f6296fd94f0e3f0980d8",
-      "download_count": 230,
-      "created_at": "2026-09-15T09:51:48Z",
-      "updated_at": "2026-09-15T09:51:48Z",
-      "browser_download_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.24.3/linkedin-mcp-server-v4.24.3.mcpb"
+      "size": 747438,
+      "digest": "sha256:0f27478f477f00cfd93c8b92408f376cf85901e936c6f9a26048f082943eee2b",
+      "download_count": 13,
+      "created_at": "2026-09-19T17:23:29Z",
+      "updated_at": "2026-09-19T17:23:29Z",
+      "browser_download_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.24.4/linkedin-mcp-server-v4.24.4.mcpb"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/tarball/v4.24.3",
-  "zipball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/zipball/v4.24.3",
-  "body": "For an installation guide, refer to the [README](https://github.com/stickerdaniel/linkedin-mcp-server/blob/main/README.md).\n\n## 📦 Update MCP Bundle Installation\n**For Claude Desktop users:**\n\n→ [Download linkedin-mcp-server-v4.24.3.mcpb](https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.24.3/linkedin-mcp-server-v4.24.3.mcpb)\n\nThen click the downloaded file to install in Claude Desktop.\n\n> **Note:** MCP Bundles do not auto-update. You need to download and install the latest `.mcpb` file for each new release.\n\n## 🐳 Update Docker Installation\n**For users with Docker-based MCP client configurations:**\n```bash\ndocker pull stickerdaniel/linkedin-mcp-server:latest\n```\nThe `latest` tag will always point to the most recent release.\nTo pull this specific version, run:\n```bash\ndocker pull stickerdaniel/linkedin-mcp-server:4.24.3\n```\n\n\n<!-- Release notes generated using configuration in .github/release.yml at v4.24.3 -->\n\n## What's Changed\n### 🐛 Bug Fixes\n* fix(readme): Render the Codex badge icon and drop Development by @stickerdaniel in https://github.com/stickerdaniel/linkedin-mcp-server/pull/984\n* fix(browser): Replace colliding import cookies by @tmedford in https://github.com/stickerdaniel/linkedin-mcp-server/pull/978\n\n## New Contributors\n* @tmedford made their first contribution in https://github.com/stickerdaniel/linkedin-mcp-server/pull/978\n\n**Full Changelog**: https://github.com/stickerdaniel/linkedin-mcp-server/compare/v4.24.2...v4.24.3",
-  "mentions_count": 2
+  "tarball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/tarball/v4.24.4",
+  "zipball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/zipball/v4.24.4",
+  "body": "For an installation guide, refer to the [README](https://github.com/stickerdaniel/linkedin-mcp-server/blob/main/README.md).\n\n## 📦 Update MCP Bundle Installation\n**For Claude Desktop users:**\n\n→ [Download linkedin-mcp-server-v4.24.4.mcpb](https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.24.4/linkedin-mcp-server-v4.24.4.mcpb)\n\nThen click the downloaded file to install in Claude Desktop.\n\n> **Note:** MCP Bundles do not auto-update. You need to download and install the latest `.mcpb` file for each new release.\n\n## 🐳 Update Docker Installation\n**For users with Docker-based MCP client configurations:**\n```bash\ndocker pull stickerdaniel/linkedin-mcp-server:latest\n```\nThe `latest` tag will always point to the most recent release.\nTo pull this specific version, run:\n```bash\ndocker pull stickerdaniel/linkedin-mcp-server:4.24.4\n```\n\n\n<!-- Release notes generated using configuration in .github/release.yml at v4.24.4 -->\n\n## What's Changed\n### 🚀 Features\n* feat(scraping): capture post permalinks on content-search pages by @mattelacchiato in https://github.com/stickerdaniel/linkedin-mcp-server/pull/999\n### 🐛 Bug Fixes\n* fix(diagnostics): Keep scrape notes off GitHub by @stickerdaniel in https://github.com/stickerdaniel/linkedin-mcp-server/pull/994\n* fix(ci): Keep main runs and 3.13 Windows coverage by @stickerdaniel in https://github.com/stickerdaniel/linkedin-mcp-server/pull/1004\n* fix(daemon): Report an unknown outcome after owner loss by @stickerdaniel in https://github.com/stickerdaniel/linkedin-mcp-server/pull/1008\n* fix(daemon): Keep a closing session from burying the answer by @stickerdaniel in https://github.com/stickerdaniel/linkedin-mcp-server/pull/1012\n* fix(session): Name the Windows arch without WMI by @stickerdaniel in https://github.com/stickerdaniel/linkedin-mcp-server/pull/1013\n* fix(daemon): Stop post-call schema discovery by @stickerdaniel in https://github.com/stickerdaniel/linkedin-mcp-server/pull/1017\n* fix(scraping): Accept periods in company slugs by @shbernal in https://github.com/stickerdaniel/linkedin-mcp-server/pull/973\n\n## New Contributors\n* @framegrabber made their first contribution in https://github.com/stickerdaniel/linkedin-mcp-server/pull/996\n* @mattelacchiato made their first contribution in https://github.com/stickerdaniel/linkedin-mcp-server/pull/999\n* @shbernal made their first contribution in https://github.com/stickerdaniel/linkedin-mcp-server/pull/973\n\n**Full Changelog**: https://github.com/stickerdaniel/linkedin-mcp-server/compare/v4.24.3...v4.24.4",
+  "mentions_count": 4
 }
