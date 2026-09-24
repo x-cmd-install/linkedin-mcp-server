@@ -1,0 +1,157 @@
+about:
+  description: "Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages."
+  license: Apache-2.0
+  homepage: 
+  head: 03828d5
+  archived: false
+  latestVersion: "v4.24.4"
+  latestRelease: "v4.24.4"
+  latestPrerelease: ""
+  collectedAt: 2026-09-24T05:19:17Z
+timeline:
+  created: 2025-04-13
+  lastCommit: 2026-09-24
+  lastVersion: 2026-09-19
+  lastRelease: 2026-09-19
+  lastPrerelease: 
+popularity:
+  star: 3609
+  watcher: 18
+  fork: 626
+  release: 77
+  contributor: 37
+  pullRequest: 689
+  issue: 343
+language:
+  Python: 5615267
+  Shell: 6378
+  Dockerfile: 3458
+totalBytes: 5625103
+recent:
+  last30d:
+    since: 2026-08-25
+    release: 7
+    mergedPR: 123
+    openPR: 25
+    closedIssue: 61
+    openIssue: 39
+    commit: 132
+  last60d:
+    since: 2026-07-26
+    release: 13
+    mergedPR: 191
+    openPR: 46
+    closedIssue: 112
+    openIssue: 66
+    commit: 201
+  last90d:
+    since: 2026-06-26
+    release: 17
+    mergedPR: 213
+    openPR: 59
+    closedIssue: 122
+    openIssue: 74
+    commit: 228
+  last180d:
+    since: 2026-03-28
+    release: 42
+    mergedPR: 323
+    openPR: 87
+    closedIssue: 176
+    openIssue: 91
+    commit: 417
+  last360d:
+    since: 2025-09-29
+    release: 71
+    mergedPR: 464
+    openPR: 92
+    closedIssue: 219
+    openIssue: 96
+    commit: 780
+  last720d:
+    since: 2024-10-04
+    release: 77
+    mergedPR: 476
+    openPR: 92
+    closedIssue: 247
+    openIssue: 96
+    commit: 1280
+total:
+  release: 77
+  mergedPR: 476
+  openPR: 92
+  closedIssue: 247
+  openIssue: 96
+  commit: 1280
+---
+path: /home/runner/.x-repo/github.com/stickerdaniel/linkedin-mcp-server
+collectedAt: 2026-09-24T05:19:20Z
+loc:
+  Python:
+    code: 115293
+    comments: 8848
+    blanks: 18736
+    files: 217
+  Json:
+    code: 10012
+    comments: 0
+    blanks: 0
+    files: 44
+  Sh:
+    code: 78
+    comments: 61
+    blanks: 18
+    files: 1
+  Toml:
+    code: 78
+    comments: 11
+    blanks: 8
+    files: 1
+  Dockerfile:
+    code: 29
+    comments: 28
+    blanks: 15
+    files: 1
+  Svg:
+    code: 22
+    comments: 0
+    blanks: 0
+    files: 2
+  Yaml:
+    code: 13
+    comments: 3
+    blanks: 0
+    files: 1
+  Ini:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  Html:
+    code: 2
+    comments: 8
+    blanks: 0
+    files: 1
+  Autoconf:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2095
+    blanks: 660
+    files: 21
+  Text:
+    code: 0
+    comments: 6
+    blanks: 0
+    files: 1
+total:
+  code: 125772
+  comments: 11082
+  blanks: 19445
+  files: 292
+---
+
+---
