@@ -14,12 +14,12 @@ x install linkedin-mcp-server
 
 ## Code insight
 
-Total: **169,253** lines of code across **315** files in the top 5 languages.
+Total: **173,896** lines of code across **318** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 157,753 | 11,166 | 25,081 | 267 |
-| Json | 11,233 | 0 | 0 | 45 |
+| Python | 162,407 | 11,403 | 25,600 | 270 |
+| Json | 11,222 | 0 | 0 | 45 |
 | Toml | 122 | 13 | 15 | 1 |
 | Sh | 78 | 61 | 18 | 1 |
 | Dockerfile | 29 | 28 | 15 | 1 |
@@ -37,22 +37,22 @@ Total: **169,253** lines of code across **315** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,677 · **Forks**: 640 · **Open issues**: 374 · **Contributors**: 39
+- **Stars**: 3,688 · **Forks**: 643 · **Open issues**: 375 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 549 · **Open PRs**: 83 · **Closed issues**: 288 · **Open issues**: 86 · **Commits**: 1357
+- **Releases**: 81 · **Merged PRs**: 557 · **Open PRs**: 83 · **Closed issues**: 288 · **Open issues**: 87 · **Commits**: 1365
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 11 | 182 | 21 | 77 | 23 | 0 |
-| last60d | 2026-08-01 | 15 | 241 | 42 | 133 | 62 | 0 |
-| 90d | 2026-07-02 | 19 | 281 | 52 | 152 | 72 | 0 |
-| last180d | 2026-04-03 | 41 | 381 | 77 | 207 | 83 | 0 |
-| 360d | 2025-10-05 | 75 | 537 | 83 | 260 | 86 | 0 |
-| last720d | 2024-10-10 | 81 | 549 | 83 | 288 | 86 | 1357 |
+| 30d | 2026-09-01 | 11 | 186 | 20 | 72 | 23 | 195 |
+| last60d | 2026-08-02 | 15 | 244 | 41 | 132 | 62 | 258 |
+| 90d | 2026-07-03 | 19 | 287 | 51 | 152 | 73 | 312 |
+| last180d | 2026-04-04 | 41 | 389 | 77 | 206 | 84 | 486 |
+| 360d | 2025-10-06 | 75 | 545 | 83 | 260 | 87 | 865 |
+| last720d | 2024-10-11 | 81 | 557 | 83 | 288 | 87 | 1365 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for linkedin-mcp-server lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:04:38Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:20:43Z._
