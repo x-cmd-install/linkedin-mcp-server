@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/398617827",
-  "assets_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/398617827/assets",
-  "upload_url": "https://uploads.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/398617827/assets{?name,label}",
-  "html_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/tag/v4.26.1",
-  "id": 398617827,
+  "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/402667826",
+  "assets_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/402667826/assets",
+  "upload_url": "https://uploads.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/402667826/assets{?name,label}",
+  "html_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/tag/v4.26.2",
+  "id": 402667826,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOYrAVM4Xwmzj",
-  "tag_name": "v4.26.1",
+  "node_id": "RE_kwDOOYrAVM4YADky",
+  "tag_name": "v4.26.2",
   "target_commitish": "main",
-  "name": "v4.26.1",
+  "name": "v4.26.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-28T20:43:20Z",
-  "updated_at": "2026-09-28T20:55:14Z",
-  "published_at": "2026-09-28T20:55:14Z",
+  "created_at": "2026-10-03T19:46:12Z",
+  "updated_at": "2026-10-03T19:54:31Z",
+  "published_at": "2026-10-03T19:54:31Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/assets/596394676",
-      "id": 596394676,
-      "node_id": "RA_kwDOOYrAVM4jjEK0",
-      "name": "linkedin-mcp-server-v4.26.1.mcpb",
+      "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/assets/608432932",
+      "id": 608432932,
+      "node_id": "RA_kwDOOYrAVM4kQ_Mk",
+      "name": "linkedin-mcp-server-v4.26.2.mcpb",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,16 +65,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 803700,
-      "digest": "sha256:d017a8c1f3bee61ebb33d7827c8c88bf21974b57a232aa8fe2f1661361496e21",
-      "download_count": 214,
-      "created_at": "2026-09-28T20:55:13Z",
-      "updated_at": "2026-09-28T20:55:13Z",
-      "browser_download_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.26.1/linkedin-mcp-server-v4.26.1.mcpb"
+      "size": 801062,
+      "digest": "sha256:23ab9f1e40014bf8ffdb743bd8a890120d5b67273c04f9e30cfc40ecb681ad2d",
+      "download_count": 17,
+      "created_at": "2026-10-03T19:54:30Z",
+      "updated_at": "2026-10-03T19:54:31Z",
+      "browser_download_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.26.2/linkedin-mcp-server-v4.26.2.mcpb"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/tarball/v4.26.1",
-  "zipball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/zipball/v4.26.1",
-  "body": "## Bug Fixes\n\n- send_message reports \"Press Enter to Send\" and explains how to switch that setting. ([#1109](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1109) by @Ymx1ZQ)\n- Keep an open chat overlay from blocking connect_with_person invitations. ([#1110](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1110) by @Ymx1ZQ)\n- Avoid needless browser setup when Patchright versions share the cache. ([#1162](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1162))\n- Recover browser setup when Windows AppContainer grants block the default temp directory. ([#1163](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1163))\n\n## Install or update\n\n> [!TIP]\n> New here? The [README](https://github.com/stickerdaniel/linkedin-mcp-server#readme) covers setup.\n\n### Update with uvx\n\nClients configured with `mcp-server-linkedin@latest` pick up v4.26.1 on their next start. To pin this release, use `mcp-server-linkedin@4.26.1` instead.\n\n### Update with the MCP Bundle\n\nFor Claude Desktop, download [linkedin-mcp-server-v4.26.1.mcpb](https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.26.1/linkedin-mcp-server-v4.26.1.mcpb) and open it to install or update. Bundles do not update themselves, so repeat this for every release.\n\n### Update with Docker\n\n```bash\ndocker pull stickerdaniel/linkedin-mcp-server:latest\n```\n\nUse the `4.26.1` tag instead of `latest` to pin this release.\n\n---\n\n**Contributors:** @Ymx1ZQ, @stickerdaniel\n\n**Full Changelog**: https://github.com/stickerdaniel/linkedin-mcp-server/compare/v4.26.0...v4.26.1\n",
+  "tarball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/tarball/v4.26.2",
+  "zipball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/zipball/v4.26.2",
+  "body": "## Breaking Changes\n\n- Python imports move from `linkedin_mcp_server.scraping` to `linkedin_mcp_server.linkedin`. ([#1189](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1189))\n- Every Python name containing \"scrap\" is renamed, keywords too; error context: `read_*`. ([#1190](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1190))\n\n<details>\n<summary><b>Bug Fixes (3)</b></summary>\n\n- `--status` now says another process holds the browser profile instead of failing. ([#1191](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1191))\n- On Windows, closing the shared daemon's browser no longer breaks its next browser start. ([#1201](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1201))\n- Send messages and return `profile_urn` again on LinkedIn's redesigned profile page. ([#1214](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1214) by @stevenmcsorley)\n\n</details>\n\n## Install or update\n\n> [!TIP]\n> New here? The [README](https://github.com/stickerdaniel/linkedin-mcp-server#readme) covers setup.\n\n### Update with uvx\n\nClients configured with `mcp-server-linkedin@latest` pick up v4.26.2 on their next start. To pin this release, use `mcp-server-linkedin@4.26.2` instead.\n\n### Update with the MCP Bundle\n\nFor Claude Desktop, download [linkedin-mcp-server-v4.26.2.mcpb](https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.26.2/linkedin-mcp-server-v4.26.2.mcpb) and open it to install or update. Bundles do not update themselves, so repeat this for every release.\n\n### Update with Docker\n\n```bash\ndocker pull stickerdaniel/linkedin-mcp-server:latest\n```\n\nUse the `4.26.2` tag instead of `latest` to pin this release.\n\n---\n\n**Contributors:** @stevenmcsorley (first contribution 🎉), @stickerdaniel\n\n**Full Changelog**: https://github.com/stickerdaniel/linkedin-mcp-server/compare/v4.26.1...v4.26.2\n",
   "mentions_count": 2
 }
