@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 801062,
       "digest": "sha256:23ab9f1e40014bf8ffdb743bd8a890120d5b67273c04f9e30cfc40ecb681ad2d",
-      "download_count": 206,
+      "download_count": 255,
       "created_at": "2026-10-03T19:54:30Z",
       "updated_at": "2026-10-03T19:54:31Z",
       "browser_download_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.26.2/linkedin-mcp-server-v4.26.2.mcpb"
