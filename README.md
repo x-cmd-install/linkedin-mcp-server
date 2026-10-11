@@ -14,11 +14,11 @@ x install linkedin-mcp-server
 
 ## Code insight
 
-Total: **215,834** lines of code across **354** files in the top 5 languages.
+Total: **216,090** lines of code across **355** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 203,767 | 13,910 | 31,063 | 304 |
+| Python | 204,023 | 13,923 | 31,098 | 305 |
 | Json | 11,800 | 0 | 0 | 47 |
 | Toml | 122 | 13 | 15 | 1 |
 | Sh | 78 | 61 | 18 | 1 |
@@ -37,22 +37,22 @@ Total: **215,834** lines of code across **354** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,800 · **Forks**: 662 · **Open issues**: 382 · **Contributors**: 41
+- **Stars**: 3,816 · **Forks**: 664 · **Open issues**: 382 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 632 · **Open PRs**: 84 · **Closed issues**: 311 · **Open issues**: 71 · **Commits**: 1441
+- **Releases**: 83 · **Merged PRs**: 635 · **Open PRs**: 82 · **Closed issues**: 311 · **Open issues**: 71 · **Commits**: 1444
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 10 | 241 | 13 | 69 | 12 | 256 |
-| last60d | 2026-08-11 | 16 | 299 | 30 | 141 | 42 | 314 |
-| 90d | 2026-07-12 | 21 | 359 | 48 | 172 | 56 | 386 |
-| last180d | 2026-04-13 | 41 | 442 | 75 | 221 | 68 | 539 |
-| 360d | 2025-10-15 | 77 | 620 | 84 | 283 | 71 | 941 |
-| last720d | 2024-10-20 | 83 | 632 | 84 | 311 | 71 | 1441 |
+| 30d | 2026-09-11 | 10 | 238 | 11 | 69 | 11 | 259 |
+| last60d | 2026-08-12 | 15 | 302 | 26 | 140 | 41 | 317 |
+| 90d | 2026-07-13 | 21 | 361 | 45 | 171 | 56 | 389 |
+| last180d | 2026-04-14 | 40 | 444 | 73 | 220 | 68 | 542 |
+| 360d | 2025-10-16 | 77 | 623 | 82 | 283 | 71 | 944 |
+| last720d | 2024-10-21 | 83 | 635 | 82 | 311 | 71 | 1444 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for linkedin-mcp-server lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:19:20Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:17:28Z._
