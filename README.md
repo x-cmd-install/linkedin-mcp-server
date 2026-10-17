@@ -32,27 +32,27 @@ Total: **226,827** lines of code across **386** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.27.0` (2026-10-10)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-16
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 3,889 · **Forks**: 683 · **Open issues**: 387 · **Contributors**: 42
+- **Stars**: 3,900 · **Forks**: 692 · **Open issues**: 391 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 698 · **Open PRs**: 92 · **Closed issues**: 312 · **Open issues**: 75 · **Commits**: 1507
+- **Releases**: 83 · **Merged PRs**: 699 · **Open PRs**: 96 · **Closed issues**: 312 · **Open issues**: 79 · **Commits**: 1508
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 7 | 259 | 18 | 51 | 14 | 270 |
-| last60d | 2026-08-17 | 15 | 363 | 32 | 136 | 42 | 377 |
-| 90d | 2026-07-18 | 21 | 424 | 54 | 170 | 59 | 451 |
-| last180d | 2026-04-19 | 37 | 499 | 81 | 216 | 72 | 587 |
-| 360d | 2025-10-21 | 77 | 686 | 92 | 284 | 75 | 1007 |
-| last720d | 2024-10-26 | 83 | 698 | 92 | 312 | 75 | 1507 |
+| 30d | 2026-09-17 | 7 | 258 | 22 | 50 | 18 | 271 |
+| last60d | 2026-08-18 | 15 | 362 | 36 | 133 | 46 | 378 |
+| 90d | 2026-07-19 | 21 | 425 | 58 | 170 | 63 | 452 |
+| last180d | 2026-04-20 | 37 | 500 | 85 | 216 | 76 | 588 |
+| 360d | 2025-10-22 | 77 | 687 | 96 | 284 | 79 | 1008 |
+| last720d | 2024-10-27 | 83 | 699 | 96 | 312 | 79 | 1508 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for linkedin-mcp-server lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:02:19Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:54:32Z._
