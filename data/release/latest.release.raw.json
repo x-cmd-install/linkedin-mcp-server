@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 827073,
       "digest": "sha256:02d5c0d145aa1a76fd9a9072d51227d5c44ba89836c6b3b9e510f155503db8ad",
-      "download_count": 75,
+      "download_count": 113,
       "created_at": "2026-10-23T06:18:27Z",
       "updated_at": "2026-10-23T06:18:27Z",
       "browser_download_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.28.0/linkedin-mcp-server-v4.28.0.mcpb"
