@@ -14,15 +14,15 @@ x install linkedin-mcp-server
 
 ## Code insight
 
-Total: **227,118** lines of code across **386** files in the top 5 languages.
+Total: **230,288** lines of code across **393** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 215,022 | 13,972 | 33,264 | 335 |
-| Json | 11,800 | 0 | 0 | 47 |
+| Python | 217,941 | 14,144 | 33,740 | 342 |
+| Json | 12,034 | 0 | 0 | 47 |
 | Toml | 151 | 23 | 17 | 2 |
 | Sh | 78 | 61 | 18 | 1 |
-| Dockerfile | 29 | 28 | 15 | 1 |
+| Dockerfile | 30 | 29 | 15 | 1 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **227,118** lines of code across **386** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.28.0` (2026-10-23)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-29
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 4,029 · **Forks**: 711 · **Open issues**: 409 · **Contributors**: 43
+- **Stars**: 4,038 · **Forks**: 714 · **Open issues**: 409 · **Contributors**: 48
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 712 · **Open PRs**: 108 · **Closed issues**: 317 · **Open issues**: 92 · **Commits**: 1522
+- **Releases**: 84 · **Merged PRs**: 730 · **Open PRs**: 91 · **Closed issues**: 325 · **Open issues**: 84 · **Commits**: 1540
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 4 | 163 | 32 | 11 | 25 | 156 |
-| last60d | 2026-08-29 | 14 | 357 | 47 | 103 | 42 | 356 |
-| 90d | 2026-07-30 | 18 | 418 | 67 | 167 | 70 | 417 |
-| last180d | 2026-05-01 | 37 | 502 | 93 | 214 | 87 | 566 |
-| 360d | 2025-11-02 | 78 | 700 | 108 | 289 | 92 | 1022 |
-| last720d | 2024-11-07 | 84 | 712 | 108 | 317 | 92 | 1522 |
+| 30d | 2026-09-29 | 3 | 176 | 19 | 17 | 18 | 174 |
+| last60d | 2026-08-30 | 14 | 371 | 33 | 108 | 32 | 374 |
+| 90d | 2026-07-31 | 18 | 429 | 50 | 170 | 62 | 435 |
+| last180d | 2026-05-02 | 37 | 516 | 76 | 221 | 79 | 584 |
+| 360d | 2025-11-03 | 78 | 718 | 91 | 297 | 84 | 1040 |
+| last720d | 2024-11-08 | 84 | 730 | 91 | 325 | 84 | 1540 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for linkedin-mcp-server lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:14:41Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:14:42Z._
