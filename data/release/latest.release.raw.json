@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/443833729",
-  "assets_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/443833729/assets",
-  "upload_url": "https://uploads.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/443833729/assets{?name,label}",
-  "html_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/tag/v4.30.0",
-  "id": 443833729,
+  "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/452333250",
+  "assets_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/452333250/assets",
+  "upload_url": "https://uploads.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/452333250/assets{?name,label}",
+  "html_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/tag/v4.31.0",
+  "id": 452333250,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOYrAVM4adF2B",
-  "tag_name": "v4.30.0",
+  "node_id": "RE_kwDOOYrAVM4a9g7C",
+  "tag_name": "v4.31.0",
   "target_commitish": "main",
-  "name": "v4.30.0",
+  "name": "v4.31.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-13T04:38:12Z",
-  "updated_at": "2026-11-13T05:00:26Z",
-  "published_at": "2026-11-13T05:00:26Z",
+  "created_at": "2026-11-20T05:57:45Z",
+  "updated_at": "2026-11-20T06:12:07Z",
+  "published_at": "2026-11-20T06:12:07Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/assets/742336528",
-      "id": 742336528,
-      "node_id": "RA_kwDOOYrAVM4sPygQ",
-      "name": "linkedin-mcp-server-v4.30.0.mcpb",
+      "url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/releases/assets/770694510",
+      "id": 770694510,
+      "node_id": "RA_kwDOOYrAVM4t791u",
+      "name": "linkedin-mcp-server-v4.31.0.mcpb",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,16 +65,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 883859,
-      "digest": "sha256:08553dae27911caf3617b67da9cd14ff486d4d5cbf3b27b4cc1adf505741f39e",
-      "download_count": 224,
-      "created_at": "2026-11-13T05:00:25Z",
-      "updated_at": "2026-11-13T05:00:26Z",
-      "browser_download_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.30.0/linkedin-mcp-server-v4.30.0.mcpb"
+      "size": 888043,
+      "digest": "sha256:ad386b4d97fb2fa63f38daacec5d86a7e9472dbc5cbe8616239f97d3aad22d58",
+      "download_count": 1,
+      "created_at": "2026-11-20T06:12:06Z",
+      "updated_at": "2026-11-20T06:12:06Z",
+      "browser_download_url": "https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.31.0/linkedin-mcp-server-v4.31.0.mcpb"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/tarball/v4.30.0",
-  "zipball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/zipball/v4.30.0",
-  "body": "## Highlights\n\n- **Mutual connections.** search_people lists a member's connections with `connection_of`. ([#1358](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1358) by @vinkamath)\n- **Replies by thread id.** reply_to_conversation answers a thread by id, InMail included. ([#1342](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1342) by @shbernal)\n- **Copied links work.** Job and company tools take the links LinkedIn shows, with slugs. ([#1437](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1437) by @ConnorMoss02)\n\n## Features\n\n- reply_to_conversation answers an existing thread by its id, InMail included. ([#1342](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1342) by @shbernal)\n- search_people takes connection_of to list a member's connections, e.g. mutual connections. ([#1358](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1358) by @vinkamath)\n- The server can load optional tools at start. ([#1475](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1475) by @stickerdaniel)\n\n<details>\n<summary><b>Bug Fixes (15)</b></summary>\n\n- Connection requests now report pending when LinkedIn hides Pending in the More menu. ([#1425](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1425) by @dgitman)\n- Job, messaging and post tools refuse invalid input before starting the browser. ([#1429](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1429) by @ConnorMoss02)\n- --slow-mo 0 now turns off a SLOW_MO set in the environment. ([#1431](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1431) by @ConnorMoss02)\n- Job tools accept a job search link with currentJobId in place of the job id. ([#1437](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1437) by @ConnorMoss02)\n- `--port 0` is refused as an invalid port instead of being dropped in favour of 8000. ([#1447](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1447) by @kun654)\n- Invalid LOG_LEVEL now refuses startup instead of silently keeping the default level. ([#1461](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1461) by @kun654)\n- An unreadable HEADLESS, AUTO_IMPORT_FROM_BROWSER or DAEMON_ENABLED now stops startup. ([#1479](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1479) by @stickerdaniel)\n- References keep an external link behind /redir/redirect without a trailing slash. ([#1491](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1491) by @ConnorMoss02)\n- Job tools accept a slugged job link with a period or escaped character in the title. ([#1493](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1493) by @ConnorMoss02)\n- References keep an escaped ?, # or / in the target of a LinkedIn redirect. ([#1498](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1498) by @ConnorMoss02)\n- Company tools accept a slug with an ampersand, such as johnson-&-johnson. ([#1500](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1500) by @ConnorMoss02)\n- An unknown `LINKEDIN_TRACE_MODE` or `LINKEDIN_MCP_CHECK_FOR_UPDATES` value stops startup. ([#1501](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1501) by @stickerdaniel)\n- References keep an external link behind /safety/go. ([#1504](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1504) by @ConnorMoss02)\n- Company tools accept a slug with an apostrophe, such as lowe's-home-improvement. ([#1506](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1506) by @ConnorMoss02)\n- A job reference is emitted only for a job link that the job tools accept as input. ([#1508](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1508) by @stickerdaniel)\n\n</details>\n\n## Install or update\n\n> [!TIP]\n> New here? The [README](https://github.com/stickerdaniel/linkedin-mcp-server#readme) covers setup.\n\n### Update with uvx\n\nClients configured with `mcp-server-linkedin@latest` pick up v4.30.0 on their next start. To pin this release, use `mcp-server-linkedin@4.30.0` instead.\n\n### Update with the MCP Bundle\n\nFor Claude Desktop, download [linkedin-mcp-server-v4.30.0.mcpb](https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.30.0/linkedin-mcp-server-v4.30.0.mcpb) and open it to install or update. Bundles do not update themselves, so repeat this for every release.\n\n### Update the Codex or Claude Code plugin\n\nCodex picks up v4.30.0 of the plugin in the background on its next start. In Claude Code, run this and restart:\n\n```bash\nclaude plugin update linkedin-mcp-server@linkedin-mcp-server\n```\n\n### Update with Docker\n\n```bash\ndocker pull stickerdaniel/linkedin-mcp-server:latest\n```\n\nUse the `4.30.0` tag instead of `latest` to pin this release.\n\n---\n\n**New contributors 🎉** @vinkamath, @dgitman, @kun654\n\n**Full Changelog**: https://github.com/stickerdaniel/linkedin-mcp-server/compare/v4.29.0...v4.30.0\n",
-  "mentions_count": 6
+  "tarball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/tarball/v4.31.0",
+  "zipball_url": "https://api.github.com/repos/stickerdaniel/linkedin-mcp-server/zipball/v4.31.0",
+  "body": "## Highlights\n\n- **HTTP token.** Beyond loopback, as in Docker, HTTP needs `LINKEDIN_MCP_HTTP_TOKEN`. ([#1518](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1518) by @stickerdaniel)\n- **FastMCP 4.2.0.** Resource listings through the shared browser stay local again. ([#1513](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1513) by @stickerdaniel)\n- **Docker security fixes.** The image ships dnspython 2.9.2 and opentelemetry-api 1.45.2. ([#1515](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1515) by @stickerdaniel)\n\n## Breaking Changes\n\n- HTTP beyond loopback now needs a bearer token, set with LINKEDIN_MCP_HTTP_TOKEN. ([#1518](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1518) by @stickerdaniel)\n\n<details>\n<summary><b>Bug Fixes (2)</b></summary>\n\n- The shared browser server answers resource listings again when its owner has stopped. ([#1513](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1513) by @stickerdaniel)\n- Installs get a new FastMCP, MCP SDK or httpx2 minor only after it is tested here. ([#1531](https://github.com/stickerdaniel/linkedin-mcp-server/pull/1531) by @stickerdaniel)\n\n</details>\n\n## Install or update\n\n> [!TIP]\n> New here? The [README](https://github.com/stickerdaniel/linkedin-mcp-server#readme) covers setup.\n\n### Update with uvx\n\nClients configured with `mcp-server-linkedin@latest` pick up v4.31.0 on their next start. To pin this release, use `mcp-server-linkedin@4.31.0` instead.\n\n### Update with the MCP Bundle\n\nFor Claude Desktop, download [linkedin-mcp-server-v4.31.0.mcpb](https://github.com/stickerdaniel/linkedin-mcp-server/releases/download/v4.31.0/linkedin-mcp-server-v4.31.0.mcpb) and open it to install or update. Bundles do not update themselves, so repeat this for every release.\n\n### Update the Codex or Claude Code plugin\n\nCodex picks up v4.31.0 of the plugin in the background on its next start. In Claude Code, run this and restart:\n\n```bash\nclaude plugin update linkedin-mcp-server@linkedin-mcp-server\n```\n\n### Update with Docker\n\n```bash\ndocker pull stickerdaniel/linkedin-mcp-server:latest\n```\n\nUse the `4.31.0` tag instead of `latest` to pin this release.\n\n---\n\n**Full Changelog**: https://github.com/stickerdaniel/linkedin-mcp-server/compare/v4.30.0...v4.31.0\n",
+  "mentions_count": 1
 }
